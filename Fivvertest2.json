@@ -1,9 +1,9 @@
 {
     "apiUrl" : "https://admin.gomovies.ma/api/",
 
-	"pushUpdate" : "on",
+	"pushUpdate" : "off",
 
 	"newPackage" : "",
-	"NetworkAds" : "com.animestreaming.animetv"
+	"NetworkAds" : "applovin"
 
 }
